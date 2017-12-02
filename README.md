@@ -1,4 +1,4 @@
-# python_vega_monito
+# python vega monitor
 A python script used to monitor and reset on hash drop while using the stak miner when mining with Vega's
 
 Credit to @CircusDad and his guide 
